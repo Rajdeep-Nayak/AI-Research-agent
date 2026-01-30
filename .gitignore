@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+data/chroma_db/
+downloads/
+report_audio.mp3
+frontend/generated_chart.png
